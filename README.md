@@ -20,3 +20,9 @@ Run Next.js with Development Mode:
 ```
 $ npm run dev
 ```
+
+Run Jest:
+
+```
+$ npm test
+```
